@@ -1,0 +1,16 @@
+PODS:
+  - YLTestPodSpec (0.0.3)
+
+DEPENDENCIES:
+  - YLTestPodSpec (= 0.0.3)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - YLTestPodSpec
+
+SPEC CHECKSUMS:
+  YLTestPodSpec: 4ab8aab0672d54e6c20c8bfff3d0902531f96ee0
+
+PODFILE CHECKSUM: abf366f2341192f26c06fc8a7597cadd072c0b21
+
+COCOAPODS: 1.5.3
